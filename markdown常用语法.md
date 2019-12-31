@@ -1,7 +1,8 @@
 # MARKDOWN
 
 ## 目录
-<!-- TOC -->autoauto- [MARKDOWN](#markdown)auto    - [目录](#目录)auto    - [介绍](#介绍)auto    - [标题](#标题)auto    - [正文](#正文)auto    - [列表](#列表)auto    - [区块引用](#区块引用)auto    - [超链接](#超链接)auto    - [代码块](#代码块)auto    - [表格](#表格)autoauto<!-- /TOC -->
+
+[TOC]
 
 ## 介绍
 
